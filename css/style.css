@@ -164,12 +164,12 @@ body{
    display: none;
    align-items: center;
    justify-content: center;
-   padding:100px 20px;
+   padding:200px 40px;
    overflow-y: scroll;
 }
 
 .image-popup img{
-   width:600px;
+   width:1000px;
    cursor: pointer;
    border:10px solid var(--white);
    background-color: var(--white);
